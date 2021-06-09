@@ -1,5 +1,3 @@
-Hola mundo de git 2
+Hola mundo de git 
 
-
-haremos un cambio
- segundo cambio
+cambio checkout
